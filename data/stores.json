@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shop A",
+    "lat": 59.402,
+    "lng": 13.511,
+    "items": { "tomatoes": 2.5, "cheese": 4.0 }
+  },
+  {
+    "name": "Shop B",
+    "lat": 59.405,
+    "lng": 13.515,
+    "items": { "apples": 3.0, "milk": 1.2 }
+  },
+  {
+    "name": "Shop C",
+    "lat": 59.409,
+    "lng": 13.520,
+    "items": { "bread": 2.0, "milk": 1.5 }
+  }
+]
