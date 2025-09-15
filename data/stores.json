@@ -9,7 +9,7 @@
     "name": "Shop B",
     "lat": 59.405,
     "lng": 13.515,
-    "items": { "apples": 3.0, "milk": 1.2 }
+    "items": { "apples": 3.0, "milk": 1.2, "cheese": 3.5 }
   },
   {
     "name": "Shop C",
